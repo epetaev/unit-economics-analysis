@@ -1,0 +1,13 @@
+# Data files (not included in repo — see README for expected format)
+*.csv
+*.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
